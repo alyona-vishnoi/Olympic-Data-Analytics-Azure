@@ -16,4 +16,4 @@ This code snippet demonstrates how to utilize PySpark for transforming Olympic-r
 ## Technology
 - PySpark
 - SQL
-- Microsoft Azure
+- Microsoft Azure (Data Factory, Data Lake Gen 2, Databricks, Synapse Analystics)
